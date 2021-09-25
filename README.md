@@ -1,6 +1,6 @@
 ## Olá 👋!! I'm Anderson Oliveira
 
-🔭 I'm currently working as a civil engineer, but I love learn about tech. In my master-degree I developed a software to simulate photovoltaic energy, since then I did not stop learning.
+🔭 I'm currently working as a civil engineer, but I love learn about tech. In my master-degree I developed a software to simulate photovoltaic energy production, since then I did not stop learning.
 
 I stared with ...
 
